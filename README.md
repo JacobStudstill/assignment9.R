@@ -19,6 +19,7 @@ hist(data$mpg,
 <img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/f1b33d7d-13cc-4155-aa9e-7c5e00ebaf9c" />
 
 
+
 --------------------------------------------------LATTICE--------------------------------------------------
 
 ## Conditional scatter plot (small multiples)
@@ -35,6 +36,7 @@ bwplot(mpg ~ factor(cyl),
        main = "Lattice: mpg by cylinder")
 
 <img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/e39c9c5f-cea9-4576-93d1-8382abca0ee8" />
+
 
 
 --------------------------------------------------GGPLOT2--------------------------------------------------
