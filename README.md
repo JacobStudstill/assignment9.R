@@ -1,7 +1,9 @@
 # assignment9.R
-
+<br>
+<br>
 --------------------------------------------------BASE R--------------------------------------------------
-
+<br>
+<br>
 ## Scatter plot
 plot(data$mpg, data$wt,
      main   = "Base: MPG vs. WT",
@@ -22,7 +24,8 @@ hist(data$mpg,
 
 
 --------------------------------------------------LATTICE--------------------------------------------------
-
+<br>
+<br>
 ## Conditional scatter plot (small multiples)
 xyplot(mpg ~ hp | factor(cyl),
        data = data,
@@ -38,9 +41,12 @@ bwplot(mpg ~ factor(cyl),
 
 <img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/e39c9c5f-cea9-4576-93d1-8382abca0ee8" />
 
-
+<br>
+<br>
 
 --------------------------------------------------GGPLOT2--------------------------------------------------
+<br>
+<br>
 
 ## Scatter plot with smoothing
 ggplot(data, aes(x = cyl, y = mpg, fill = wt, size = hp)) +
