@@ -4,16 +4,13 @@
 <h4>There are many different ways to graph and visualize data to the viewer. What it comes down to is how comfortable the programmer is with the library and the capabilities of the library. The graphs that can be represented with different libraries share basic similarities. 
 <br>
 <br>
-<br>
      
 Base R - Great for creating basic and simple graphs. Syntax is very straight-forward. Additional layers would be difficult to add.
 <br>
 <br>     
-<br>
      
 Lattice - The syntax was a little confusing to understand since the y comes before the x. A step up from Base R, in my opinion, for adding additional layers to the graphs. Not basic graphs but not as customizable as other libraries.
      
-<br>
 <br>
 <br>
 Ggplot2 - Most preferred library, in my opinion, for customization and adding multiple layers. This might be possible for other libraries but the syntax is straight forward and easy to understand. 
