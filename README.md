@@ -18,6 +18,7 @@ hist(data$mpg,
 
 <img width="1344" height="960" alt="image" src="https://github.com/user-attachments/assets/f1b33d7d-13cc-4155-aa9e-7c5e00ebaf9c" />
 <br>
+<br>
 
 
 --------------------------------------------------LATTICE--------------------------------------------------
